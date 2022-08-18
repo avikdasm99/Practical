@@ -1,6 +1,3 @@
-package Operator;
- 
-
 public class Prefix_Postfix {
 
 	public static void main(String[] args) {
